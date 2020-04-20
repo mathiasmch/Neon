@@ -1,0 +1,9 @@
+*~
+
+cmake/*
+!cmake/CMakeLists.txt
+
+tests/cmake/*
+!tests/cmake/CMakeLists.txt
+!tests/cmake/run_tests.sh
+
